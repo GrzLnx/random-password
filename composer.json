@@ -1,0 +1,16 @@
+{
+    "name": "adriaan/random-password",
+    "description": "Generate random password of a given length",
+    "autoload": {
+        "psr-4": {
+            "Adriaan\\RandomPassword\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GrzLnx",
+            "email": "53223526+GrzLnx@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
