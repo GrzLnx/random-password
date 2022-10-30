@@ -3,7 +3,7 @@
     "description": "Generate random password of a given length",
     "autoload": {
         "psr-4": {
-            "Adriaan\\RandomPassword\\": "src/"
+            "GrzLnx\\RandomPassword\\": "src/"
         }
     },
     "authors": [
