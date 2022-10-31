@@ -1,6 +1,6 @@
 <?php
 
-namespace GrzLnx\RandomPassword;
+namespace Admo\Sdk;
 
 class RandomPassword
 {

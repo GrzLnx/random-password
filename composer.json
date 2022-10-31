@@ -1,9 +1,9 @@
 {
     "name": "adriaan/random-password",
-    "description": "Generate random password of a given length",
+    "description": "Generate r andom password of a given length",
     "autoload": {
         "psr-4": {
-            "GrzLnx\\RandomPassword\\": "src/"
+            "Admo\\Sdk\\": "src/"
         }
     },
     "authors": [
